@@ -58,10 +58,10 @@ This project is an interactive **Power BI dashboard** built to analyze pizza sal
 Pizza-Sales/
 │── PizzaSales_Dataset.pbix
 │── PizzaSales_Report.pbix
-│── dashboard.png
+│── pizza_sales.sql
 │── README.md
-└── SQL/
-    └── pizza_sales_analysis.sql
+└── images/
+    └── dashboard.png
 ```
 
 
