@@ -55,8 +55,8 @@ This project is an interactive **Power BI dashboard** built to analyze pizza sal
 ## Repository Structure
 
 ```
-Pizza-Sales/
-│── pizza sales dashbord.pbix
+Sales-Dashboard/
+│── pizza sales dashboard.pbix
 │── pizza sales dataset.pbix
 │── pizza_sales.sql
 │── README.md
