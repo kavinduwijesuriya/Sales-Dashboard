@@ -7,7 +7,8 @@ This project is an interactive **Power BI dashboard** built to analyze pizza sal
 ## Dashboard Preview
 
 
-<img width="772" height="442" alt="image" src="https://github.com/user-attachments/assets/514510ad-fea2-4327-9a2e-cb5daf514d84" />
+<img width="770" height="436" alt="Screenshot 2026-07-02 at 08 40 36" src="https://github.com/user-attachments/assets/6695c91b-87d8-4802-92cf-aeec0c3376d3" />
+
 
 <img width="770" height="436" alt="Screenshot 2026-07-02 at 06 58 20" src="https://github.com/user-attachments/assets/cdb42c55-c2e8-497a-a46b-5474942fa6bd" />
 
